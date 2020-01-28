@@ -14,11 +14,11 @@ Kitsaan yhdistettyyn asiakas- ja toimittajarekisteriin tallennetaan asiakkaiden 
 
 Muodostamalla ryhmiä voit hakea tietoja nopeammin, sekä voit muodostaa nopeasti ryhmälaskuja. Esimerkiksi yhdistys voi muodostaa tietystä laskutettavasta toimintaryhmästä ryhmän.
 
-# Asiakkan/Toimittajan tiedot
+# Asiakkaan/Toimittajan tiedot
 
 ![](../../kirjaus/menotulo/toimittajarivi.png)
 
-Asiakas/toimittajaa valittaessa voit
+Asiakasta/toimittajaa valittaessa voit
 
 - valita olemassa olevan asiakkaan/toimittajan valintalistasta
 - aloittaa kirjoittamaan nimeä
