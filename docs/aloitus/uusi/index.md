@@ -29,7 +29,7 @@ Seuraavaksi valitaan, oletko aloittamassa todellista kirjanpito vai harjoittelem
 Harjoittelutilassa kaikkiin tulosteisiin tulostuu *HARJOITUS*-teksti, joten ne erottuvat oikeasta kirjanpitoaineistosta. Harjoittelutilassa voit myös tulostaa laskuja haluamillasi päivämäärillä sekä nopeuttaa ajan kulumista jolloin saat näkyviin tilinpäätökseen ja arvonlisäveroon liittyviä ilmoituksia.
 
 !!! tip "Kokeile ensin"
-    Ennen varsinaisen kirjanpidon aloittamista kannattaa Kitupiikkiä kokeilla harjoittelutilassa.
+    Ennen varsinaisen kirjanpidon aloittamista kannattaa Kitsasta kokeilla harjoittelutilassa.
 
 ## Tilikartta
 
